@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+.inst-text@import url(https://fonts.googleapis.com/css?family=Montserrat);
 @font-face {
 	font-family: bigCarlson;
 	src: url("./fonts/Big Caslon Medium.ttf");
@@ -323,7 +323,7 @@ body {
 	white-space: nowrap;
     padding: 1vh 0;
     text-align: center;
-    font-size: 2vh;
+    font-size: 1.5vh;
     color: #f1f1f1;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
